@@ -13,6 +13,11 @@
 ## zadanie2
 
 - git
-
+- git branch NU
+- git checkout NU
+- git add .
+- git status 
+- git push 
+- git commit -m ""
 
 
