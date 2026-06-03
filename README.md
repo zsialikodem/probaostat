@@ -6,7 +6,7 @@
 - git remote
 - git push
 
-![obrazek](Zrzut ekranu 2025-09-03 153811-1.png)
+![obrazek](<Zrzut ekranu 2025-09-03 153811-1.png>)
 
 ---------------------------
 
